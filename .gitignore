@@ -1,0 +1,8 @@
+*.exe
+*.dll
+glad.h
+glad.c
+glfw3.h
+glfw3native.h
+khrplatform.h
+*.a
